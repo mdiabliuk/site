@@ -1,8 +1,10 @@
-header {
-  background: white;
+body {
   width: 900px;
   margin: 0 auto;
   box-shadow: -2px 2px 5px grey; }
+
+header {
+  background: white; }
 
 h1 {
   color: black;
